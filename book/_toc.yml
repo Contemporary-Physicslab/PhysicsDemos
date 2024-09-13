@@ -50,9 +50,9 @@ parts:
           - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E20 Rot Ref/1E2005 Coriolis/1E2005.md
           - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E20 Rot Ref/1E2006 Rotating Liquid/1E2006.md
         - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E30 TOC.md
-          sections: 
-          - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E3001 Coriolis/1E3001.md
-          - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E3002 Cross Product/1E3002.md
+          # sections: 
+          # - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E3001 Coriolis/1E3001.md
+          # - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E3002 Cross Product/1E3002.md
       - file: external/Demolab/book/book/1 mechanics/1F newton 1/1F TOC.md
         sections: 
         - file: external/Demolab/book/book/1 mechanics/1F newton 1/1F20 Inertia of Rest/1F20 TOC.md
@@ -78,7 +78,7 @@ parts:
           - file: external/Demolab/book/book/1 mechanics/1H newton 3/1H10 Act and React/1H1001 Who is the Strongest in a Collision/1H1001.md
           - file: external/Demolab/book/book/1 mechanics/1H newton 3/1H10 Act and React/1H1002 Who is Pulling/1H1002.md
           - file: external/Demolab/book/book/1 mechanics/1H newton 3/1H10 Act and React/1H1003 Trying Hard to Pull Differently/1H1003.md
-          - file: external/Demolab/book/book/1 mechanics/1H newton 3/1H10 Act and React/1H1004 Bottle Rocket/1H1004.md
+          # - file: external/Demolab/book/book/1 mechanics/1H newton 3/1H10 Act and React/1H1004 Bottle Rocket/1H1004.md
           - file: external/Demolab/book/book/1 mechanics/1H newton 3/1H10 Act and React/1H1005 Magnet Symmetry/1H1005.md
           - file: external/Demolab/book/book/1 mechanics/1H newton 3/1H10 Act and React/1H1006 Recoil of a Water Jet/1H1006.md
           - file: external/Demolab/book/book/1 mechanics/1H newton 3/1H10 Act and React/1H1007 Strong Magnet Weak Paperclip/1H1007.md
@@ -103,8 +103,8 @@ parts:
           sections: 
           - file: external/Demolab/book/book/1 mechanics/1K apply newton/1K20 Friction/1K2001 Braking/1K2001.md
           - file: external/Demolab/book/book/1 mechanics/1K apply newton/1K20 Friction/1K2002 Phonebook Friction/1K2002.md
-          - file: external/Demolab/book/book/1 mechanics/1K apply newton/1K20 Friction/1K2004 Falling Stick/1K2004.md
-          - file: external/Demolab/book/book/1 mechanics/1K apply newton/1K20 Friction/1K2005 Throwing a Basketball/1K2005.md
+          # - file: external/Demolab/book/book/1 mechanics/1K apply newton/1K20 Friction/1K2004 Falling Stick/1K2004.md
+          # - file: external/Demolab/book/book/1 mechanics/1K apply newton/1K20 Friction/1K2005 Throwing a Basketball/1K2005.md
           - file: external/Demolab/book/book/1 mechanics/1K apply newton/1K20 Friction/1K2006 Chain Friction/1K2006.md
           - file: external/Demolab/book/book/1 mechanics/1K apply newton/1K20 Friction/1K2007 Moving Two Fingers under a Meterstick/1K2007.md
           - file: external/Demolab/book/book/1 mechanics/1K apply newton/1K20 Friction/1K2008 No Tipping Allowed/1K2008.md
@@ -139,7 +139,7 @@ parts:
         sections: 
         - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N10 Impulse and Thrust/1N10 TOC.md
           sections: 
-          - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N10 Impulse and Thrust/1N1001 Bottle Rocket/1N1001.md
+          # - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N10 Impulse and Thrust/1N1001 Bottle Rocket/1N1001.md
           - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N10 Impulse and Thrust/1N1002 Boomerang Ball/1N1002.md
           - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N10 Impulse and Thrust/1N1003 Boomerang Ball/1N1003.md
           - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N10 Impulse and Thrust/1N1004 Throwing a Basketball/1N1004.md
@@ -154,15 +154,15 @@ parts:
           - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2006 Knock Out/1N2006.md
           - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2007 Pulling a Slackened Rope/1N2007.md
           - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2008 Spinning Bouncing Ball/1N2008.md
-          - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2009 Super Balls Double Ball Drop/1N2009.md
+          # - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2009 Super Balls Double Ball Drop/1N2009.md
           - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2010 Magnet Symmetry/1N2010.md
         - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N22 Rockets/1N22 TOC.md
           sections: 
-          - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N22 Rockets/1N2201 Bottle Rocket/1N2201.md
+          # - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N22 Rockets/1N2201 Bottle Rocket/1N2201.md
           - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N22 Rockets/1N2202 Recoil of a Water Jet/1N2202.md
         - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N30 Collisions/1N30 TOC.md
           sections: 
-          - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N30 Collisions/1N3001 Knock Out/1N3001.md
+          # - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N30 Collisions/1N3001 Knock Out/1N3001.md
           - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N30 Collisions/1N3002 Super Balls Double Ball Drop/1N3002.md
       - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q TOC.md
         sections: 
@@ -184,7 +184,7 @@ parts:
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q2005 Rolling Down a Wide Gutter/1Q2005.md
         - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q40 TOC.md
           sections: 
-          - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4001 Magnet Symmetry/1Q4001.md
+          # - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4001 Magnet Symmetry/1Q4001.md
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4002 Colliding Magnets/1Q4002.md
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4003 Matchbox and Wineglass/1Q4003.md
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4004 Sweet Spot/1Q4004.md
@@ -193,7 +193,7 @@ parts:
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4007 Dumb Bell/1Q4007.md
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4008 How an Astronaut can Turn Around in Free Space/1Q4008.md
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4009 Playing Tennis/1Q4009.md
-          - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4010 Pirouette/1Q4010.md
+          # - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4010 Pirouette/1Q4010.md
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4011 Pulling the Rug/1Q4011.md
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4012 Tippe Top/1Q4012.md
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q4013 Vibrating Stopwatch/1Q4013.md
@@ -220,11 +220,11 @@ parts:
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q60 Rot Stability/1Q6006 Sleeper/1Q6006.md
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q60 Rot Stability/1Q6007 Tippe Top/1Q6007.md
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q60 Rot Stability/1Q6008 Rugbyball/1Q6008.md
-      - file: external/Demolab/book/book/1 mechanics/1R properties of matter/1R TOC.md
-        sections: 
-        - file: external/Demolab/book/book/1 mechanics/1R properties of matter/1R10 Hookes Law/1R10 TOC.md
-          sections: 
-          - file: external/Demolab/book/book/1 mechanics/1R properties of matter/1R10 Hookes Law/1R1001 Hookes Law/1R1001.md
+      # - file: external/Demolab/book/book/1 mechanics/1R properties of matter/1R TOC.md
+      #   sections: 
+      #   - file: external/Demolab/book/book/1 mechanics/1R properties of matter/1R10 Hookes Law/1R10 TOC.md
+      #     sections: 
+      #     - file: external/Demolab/book/book/1 mechanics/1R properties of matter/1R10 Hookes Law/1R1001 Hookes Law/1R1001.md
   - caption: Fluid Mechanics
     chapters:
     - file: external/Demolab/book/book/2 fluid mechanics/2 TOC.md
@@ -261,7 +261,7 @@ parts:
         - file: external/Demolab/book/book/3 oscillations and waves/3A osc/3A40 Simple/3A40 TOC.md
           sections:
           - file: external/Demolab/book/book/3 oscillations and waves/3A osc/3A40 Simple/3A4001 Mathematical Pendulum/3A4001.md
-          - file: external/Demolab/book/book/3 oscillations and waves/3A osc/3A40 Simple/3A4002 Mathematical Pendulum/3A4002.md
+          # - file: external/Demolab/book/book/3 oscillations and waves/3A osc/3A40 Simple/3A4002 Mathematical Pendulum/3A4002.md
           - file: external/Demolab/book/book/3 oscillations and waves/3A osc/3A40 Simple/3A4003 Simple Harmonic/3A4003.md
           - file: external/Demolab/book/book/3 oscillations and waves/3A osc/3A40 Simple/3A4004 Simple Harmonic/3A4004.md
           - file: external/Demolab/book/book/3 oscillations and waves/3A osc/3A40 Simple/3A4005 Simple Harmonic/3A4005.md
@@ -301,10 +301,10 @@ parts:
           sections: 
           - file: external/Demolab/book/book/3 oscillations and waves/3B wave/3B40 Doppler/3B4001 Doppler/3B4001.md
       - file: external/Demolab/book/book/3 oscillations and waves/3C acoustics/3C TOC.md
-        sections: 
-        - file: external/Demolab/book/book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C50 TOC.md
-          sections: 
-          - file: external/Demolab/book/book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C5001 Plucking a String/3C5001.md
+        # sections: 
+        # - file: external/Demolab/book/book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C50 TOC.md
+        #   sections: 
+        #   - file: external/Demolab/book/book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C5001 Plucking a String/3C5001.md
       - file: external/Demolab/book/book/3 oscillations and waves/3D instruments/3D TOC.md
       - file: external/Demolab/book/book/3 oscillations and waves/3E sound reproduction/3E TOC.md
   - caption: Thermodynamics
@@ -330,11 +330,11 @@ parts:
           - file: external/Demolab/book/book/4 thermodynamics/4B heat and the first law/4B30 Conduction/4B3001 Cooling by Insulation/4B3001.md
         - file: external/Demolab/book/book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B40 TOC.md
           sections: 
-          - file: external/Demolab/book/book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B4001 Cooling by Insulation/4B4001.md
+          # - file: external/Demolab/book/book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B4001 Cooling by Insulation/4B4001.md
           - file: external/Demolab/book/book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B4002 StefanBoltzmann Law for Radiation/4B4002.md
         - file: external/Demolab/book/book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B60 TOC.md
           sections: 
-          - file: external/Demolab/book/book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6001 Joules Experiment/4B6001.md
+          # - file: external/Demolab/book/book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6001 Joules Experiment/4B6001.md
           - file: external/Demolab/book/book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B6002 Smashing/4B6002.md
         - file: external/Demolab/book/book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B70 TOC.md
           sections: 
@@ -523,12 +523,12 @@ parts:
           sections: 
           - file: external/Demolab/book/book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4001 Chromatic Aberration/6A4001.md
           - file: external/Demolab/book/book/6 optics/6A geometrical optics/6A40 Refractive Index/6A4002 Curved Lightbeams/6A4002.md
-        - file: external/Demolab/book/book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A42 TOC.md
-          sections: 
-          - file: external/Demolab/book/book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A4201 Brewsters Angle/6A4201.md
+        # - file: external/Demolab/book/book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A42 TOC.md
+        #   sections: 
+        #   - file: external/Demolab/book/book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A4201 Brewsters Angle/6A4201.md
         - file: external/Demolab/book/book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A44 TOC.md
           sections: 
-          - file: external/Demolab/book/book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4401 Brewsters Angle/6A4401.md
+          # - file: external/Demolab/book/book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4401 Brewsters Angle/6A4401.md
           - file: external/Demolab/book/book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A4402 Tunneling/6A4402.md
         - file: external/Demolab/book/book/6 optics/6A geometrical optics/6A60 Thin Lens/6A60 TOC.md
           sections: 
@@ -582,10 +582,10 @@ parts:
           sections: 
           - file: external/Demolab/book/book/6 optics/6H polarisation/6H20 Reflection/6H2001 Brewsters Angle/6H2001.md
           - file: external/Demolab/book/book/6 optics/6H polarisation/6H20 Reflection/6H2002 Brewsters Angle/6H2002.md
-          - file: external/Demolab/book/book/6 optics/6H polarisation/6H20 Reflection/6H2003 Brewsters Angle/6H2003.md
-        - file: external/Demolab/book/book/6 optics/6H polarisation/6H35 Birefringence/6H35 TOC.md
-          sections: 
-          - file: external/Demolab/book/book/6 optics/6H polarisation/6H35 Birefringence/6H3501 Brewsters Angle/6H3501.md
+          # - file: external/Demolab/book/book/6 optics/6H polarisation/6H20 Reflection/6H2003 Brewsters Angle/6H2003.md
+        # - file: external/Demolab/book/book/6 optics/6H polarisation/6H35 Birefringence/6H35 TOC.md
+        #   sections: 
+        #   - file: external/Demolab/book/book/6 optics/6H polarisation/6H35 Birefringence/6H3501 Brewsters Angle/6H3501.md
       - file: external/Demolab/book/book/6 optics/6J the eye/6J TOC.md
       - file: external/Demolab/book/book/6 optics/6Q modern optics/6Q TOC.md
   - caption: 7 modern physics
@@ -596,7 +596,7 @@ parts:
         sections: 
         - file: external/Demolab/book/book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50 TOC.md
           sections: 
-          - file: external/Demolab/book/book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A5001 deBroglie Applied to Bohr/7A5001.md
+          # - file: external/Demolab/book/book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A5001 deBroglie Applied to Bohr/7A5001.md
           - file: external/Demolab/book/book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A5002 Tunneling/7A5002.md
         - file: external/Demolab/book/book/7 modern physics/7A quantum effects/7A60 X ray and Electron Diffraction/7A60 TOC.md
           sections: 
