@@ -19,7 +19,7 @@ parts:
         - file: external/Demolab/book/book/1 mechanics/1A measurement/1A40 Vectors/1A40 TOC.md
           sections: 
           - file: external/Demolab/book/book/1 mechanics/1A measurement/1A40 Vectors/1A4001 Cross Product/1A4001.md
-      #- file: external/Demolab/book/book/1 mechanics/1C 1D-motion/1C TOC.md
+      # - file: external/Demolab/book/book/1 mechanics/1C 1D-motion/1C TOC.md
       - file: external/Demolab/book/book/1 mechanics/1D 2D motion/1D TOC.md
         sections: 
         - file: external/Demolab/book/book/1 mechanics/1D 2D motion/1D40 Center of Mass/1D40 TOC.md
@@ -306,7 +306,7 @@ parts:
         #   sections: 
         #   - file: external/Demolab/book/book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C5001 Plucking a String/3C5001.md
       # - file: external/Demolab/book/book/3 oscillations and waves/3D instruments/3D TOC.md
-      - file: external/Demolab/book/book/3 oscillations and waves/3E sound reproduction/3E TOC.md
+      # - file: external/Demolab/book/book/3 oscillations and waves/3E sound reproduction/3E TOC.md
   - caption: Thermodynamics
     chapters:
     - file: external/Demolab/book/book/4 thermodynamics/4 TOC.md
@@ -499,7 +499,7 @@ parts:
           - file: external/Demolab/book/book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2001 Self Inductance in AC Circuit/5L2001.md
           - file: external/Demolab/book/book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2002 Phase/5L2002.md
           - file: external/Demolab/book/book/5 EM/5L AC circuits/5L20 LCR Circuits AC/5L2003 LRC Circuits/5L2003.md
-      - file: external/Demolab/book/book/5 EM/5M semiconductors and tubes/5M TOC.md
+      # - file: external/Demolab/book/book/5 EM/5M semiconductors and tubes/5M TOC.md
       - file: external/Demolab/book/book/5 EM/5N electromagnetic radiation/5N TOC.md
         sections: 
         - file: external/Demolab/book/book/5 EM/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N10 TOC.md
