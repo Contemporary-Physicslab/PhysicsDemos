@@ -1,0 +1,3 @@
+[submodule "book/external/Demolab"]
+	path = book/external/Demolab
+	url = https://github.com/Contemporary-Physicslab/Demolab.git
