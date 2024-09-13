@@ -49,7 +49,7 @@ parts:
           - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E20 Rot Ref/1E2004 Coriolis Merry go Round/1E2004.md
           - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E20 Rot Ref/1E2005 Coriolis/1E2005.md
           - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E20 Rot Ref/1E2006 Rotating Liquid/1E2006.md
-        - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E30 TOC.md
+        # - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E30 TOC.md
           # sections: 
           # - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E3001 Coriolis/1E3001.md
           # - file: external/Demolab/book/book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E3002 Cross Product/1E3002.md
@@ -156,10 +156,10 @@ parts:
           - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2008 Spinning Bouncing Ball/1N2008.md
           # - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2009 Super Balls Double Ball Drop/1N2009.md
           - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N20 Conserv/1N2010 Magnet Symmetry/1N2010.md
-        - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N22 Rockets/1N22 TOC.md
-          sections: 
-          # - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N22 Rockets/1N2201 Bottle Rocket/1N2201.md
-          - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N22 Rockets/1N2202 Recoil of a Water Jet/1N2202.md
+        # - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N22 Rockets/1N22 TOC.md
+        #   sections: 
+        #   - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N22 Rockets/1N2201 Bottle Rocket/1N2201.md
+        #   - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N22 Rockets/1N2202 Recoil of a Water Jet/1N2202.md
         - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N30 Collisions/1N30 TOC.md
           sections: 
           # - file: external/Demolab/book/book/1 mechanics/1N lin momentum and collisions/1N30 Collisions/1N3001 Knock Out/1N3001.md
@@ -177,10 +177,10 @@ parts:
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q10 Momentum of Inertia/1Q1007 Matchbox and Wineglass/1Q1007.md
         - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q20 TOC.md
           sections: 
-          - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q2001 Dropping Rolls of Toilet Paper/1Q2001.md
+          # - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q2001 Dropping Rolls of Toilet Paper/1Q2001.md
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q2002 Yo-Yo/1Q2002.md
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q2003 Maxwheel/1Q2003.md
-          - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q2004 Rolling Downhill/1Q2004.md
+          # - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q2004 Rolling Downhill/1Q2004.md
           - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q20 Rot Energy/1Q2005 Rolling Down a Wide Gutter/1Q2005.md
         - file: external/Demolab/book/book/1 mechanics/1Q rot dyn/1Q40 Cons of Angular Momentum/1Q40 TOC.md
           sections: 
@@ -229,7 +229,7 @@ parts:
     chapters:
     - file: external/Demolab/book/book/2 fluid mechanics/2 TOC.md
       sections: 
-      - file: external/Demolab/book/book/2 fluid mechanics/2A surface tension/2A TOC.md
+      # - file: external/Demolab/book/book/2 fluid mechanics/2A surface tension/2A TOC.md
       - file: external/Demolab/book/book/2 fluid mechanics/2B statics/2B TOC.md
         sections: 
         - file: external/Demolab/book/book/2 fluid mechanics/2B statics/2B20 Static Pressure/2B20 TOC.md
@@ -300,12 +300,12 @@ parts:
         - file: external/Demolab/book/book/3 oscillations and waves/3B wave/3B40 Doppler/3B40 TOC.md
           sections: 
           - file: external/Demolab/book/book/3 oscillations and waves/3B wave/3B40 Doppler/3B4001 Doppler/3B4001.md
-      - file: external/Demolab/book/book/3 oscillations and waves/3C acoustics/3C TOC.md
+      # - file: external/Demolab/book/book/3 oscillations and waves/3C acoustics/3C TOC.md
         # sections: 
         # - file: external/Demolab/book/book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C50 TOC.md
         #   sections: 
         #   - file: external/Demolab/book/book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C5001 Plucking a String/3C5001.md
-      - file: external/Demolab/book/book/3 oscillations and waves/3D instruments/3D TOC.md
+      # - file: external/Demolab/book/book/3 oscillations and waves/3D instruments/3D TOC.md
       - file: external/Demolab/book/book/3 oscillations and waves/3E sound reproduction/3E TOC.md
   - caption: Thermodynamics
     chapters:
@@ -365,7 +365,7 @@ parts:
           sections: 
           - file: external/Demolab/book/book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3001 Radiometer of Crooks/4D3001.md
           - file: external/Demolab/book/book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D3002 Rain of Balls/4D3002.md
-      - file: external/Demolab/book/book/4 thermodynamics/4E gas law/4E TOC.md
+      # - file: external/Demolab/book/book/4 thermodynamics/4E gas law/4E TOC.md
       - file: external/Demolab/book/book/4 thermodynamics/4F entropy and the second law/4F TOC.md
         sections: 
         - file: external/Demolab/book/book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F10 TOC.md
@@ -428,7 +428,7 @@ parts:
           sections: 
           - file: external/Demolab/book/book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2001 PTC/5D2001.md
           - file: external/Demolab/book/book/5 EM/5D resistance/5D20 Resistivity and Temperature/5D2002 NTC/5D2002.md
-      - file: external/Demolab/book/book/5 EM/5E electromotive force and current/5E TOC.md
+      # - file: external/Demolab/book/book/5 EM/5E electromotive force and current/5E TOC.md
       - file: external/Demolab/book/book/5 EM/5F DC circuits/5F TOC.md
         sections: 
         - file: external/Demolab/book/book/5 EM/5F DC circuits/5F15 Power and Energy/5F15 TOC.md
@@ -586,8 +586,8 @@ parts:
         # - file: external/Demolab/book/book/6 optics/6H polarisation/6H35 Birefringence/6H35 TOC.md
         #   sections: 
         #   - file: external/Demolab/book/book/6 optics/6H polarisation/6H35 Birefringence/6H3501 Brewsters Angle/6H3501.md
-      - file: external/Demolab/book/book/6 optics/6J the eye/6J TOC.md
-      - file: external/Demolab/book/book/6 optics/6Q modern optics/6Q TOC.md
+      # - file: external/Demolab/book/book/6 optics/6J the eye/6J TOC.md
+      # - file: external/Demolab/book/book/6 optics/6Q modern optics/6Q TOC.md
   - caption: 7 modern physics
     chapters:
     - file: external/Demolab/book/book/7 modern physics/7 TOC.md
@@ -609,22 +609,22 @@ parts:
         - file: external/Demolab/book/book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B50 TOC.md
           sections: 
           - file: external/Demolab/book/book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B5001 deBroglie Applied to Bohr/7B5001.md
-      - file: external/Demolab/book/book/7 modern physics/7D nuclear physics/7D TOC.md
-      - file: external/Demolab/book/book/7 modern physics/7E elementary particles/7E TOC.md
+      # - file: external/Demolab/book/book/7 modern physics/7D nuclear physics/7D TOC.md
+      # - file: external/Demolab/book/book/7 modern physics/7E elementary particles/7E TOC.md
       - file: external/Demolab/book/book/7 modern physics/7F relativity/7F TOC.md
         sections: 
         - file: external/Demolab/book/book/7 modern physics/7F relativity/7F10 Relativity/7F10 TOC.md
           sections: 
           - file: external/Demolab/book/book/7 modern physics/7F relativity/7F10 Relativity/7F1001 E mc2/7F1001.md
-  - caption: 8 astronomy
-    chapters:
-    - file: external/Demolab/book/book/8 astronomy/8 TOC.md
+  # - caption: 8 astronomy
+  #   chapters:
+  #   - file: external/Demolab/book/book/8 astronomy/8 TOC.md
   #     sections:
   #     - file: external/Demolab/book/book/8 astronomy/8A celestial mechanics/8A TOC.md
   #       sections: 
   #       - file: external/Demolab/book/book/8 astronomy/8A celestial mechanics/8A10 Solar System Mechanics/8A1001.md
   #       - file: external/Demolab/book/book/8 astronomy/8A celestial mechanics/8A10 Solar System Mechanics/8A1002.md
   #       - file: external/Demolab/book/book/8 astronomy/8A celestial mechanics/8A10 Solar System Mechanics/8A1003.md
-  - caption: 9 miscellaneous
-    chapters:
-    - file: external/Demolab/book/book/9 miscellaneous/9 TOC.md
+  # - caption: 9 miscellaneous
+  #   chapters:
+  #   - file: external/Demolab/book/book/9 miscellaneous/9 TOC.md

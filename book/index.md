@@ -3,10 +3,6 @@
 
 This source contains a collection of physics demonstrations tailored for university classroom lectures. The book is structured in accord with the so-called [Physics Instructional Resource Association (PIRA)](https://pira.wildapricot.org/).
 
-```{important}
-Please note that this resource is still work in progress. However, all documented demos have been copied from the previous website de-monstrare.nl into this resource. They are accessible in the form of a hyperlink to the previous website de-monstrare.nl. Our new demos will also include media content such as video recordings of the individual demos.
-```
-
 (how-we-work)=
 ## How we Work
 We consider our ***Demonstration Room*** as a shop and we sell demonstrations. We seduce professors to use our facilities and expertise. We need to seduce them because professors are not familiar with all the ideas available and they certainly have no time to investigate all the possibilities that exist.
@@ -19,13 +15,6 @@ We consider our ***Demonstration Room*** as a shop and we sell demonstrations. W
 6. we know the literature and the ideas that are proposed worldwide and we keep up to date
 7. we know what is commercially available
 
-```{figure} ../figures/Ron.jpg
----
-width: 70%
----
-Ron Haaksman
-```
-
 (how-to-demonstrate)=
 ## How to Demonstrate
 
@@ -34,12 +23,6 @@ In the matter of physics, the first lessons should contain nothing but what is e
 
 ***Albert Einstein***
 ```
-
-:::{ }
-De monstrare = `Demonstrate`
-"De" has the meaning of: intensification
-"monstrare" = to show
-:::
 
 From the Latin version of this verb it can be seen that we aim to show phenomena in an intensified way. Ron is staff of the demonstration facility and his profession is to demonstrate.
 
